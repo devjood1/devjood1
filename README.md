@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 # 💫 About Me:
 💻| I'm currently working on my Portfolio.<br>🧐| I'm currently learning Front-end development.<br>💬| Ask me about web or tech-related stuff.<br>🔗| How to reach me: Twitter and Instagram * @DevJood *.<br>✨| Fun fact: I love drinking all kinds of tea.
 
@@ -18,8 +16,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/devjood) 
+## 🍵 If You want to buy me tea:
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/devjood) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
